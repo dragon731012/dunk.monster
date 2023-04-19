@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 19 Apr 2023 16:58:07 at https://dunk.monster +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dunk.monster -O1 "C:\My Web Sites\dunk-monster" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:58:22	Warning: 	Link https://dunk.monster/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+16:58:22	Error: 	"Not Found" (404) at link https://dunk.monster/GET (from https://dunk.monster/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 10 links scanned, 8 files written (2894963 bytes overall) [542736 bytes received at 36182 bytes/sec], 2888747 bytes transferred using HTTP compression in 8 files, ratio 18%, 2.5 requests per connection
+(1 errors, 1 warnings, 0 messages)
